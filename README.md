@@ -1,6 +1,4 @@
-# Vanilla Redux
-
-## Redux (Vanilla & React)
+### Redux (Vanilla & React)
 
 # Vanilla_Redux
 ### store
