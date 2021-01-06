@@ -9,7 +9,7 @@
 - 항상 reducer라는 함수를 생성후 createStore 안에 넣음
 
 ### dispatch
-- message를 전송하는 방법으로 사용된다
+- message를 전송하는 방법으로 사용된다 <br/>
 ![CommentStructure](./studyPic_redux/dispatch.png) <br/>
 
 # React_Redux
